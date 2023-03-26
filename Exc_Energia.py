@@ -1,6 +1,6 @@
 # recebe consumo kwh, se consumo for < que 150, valor por kwh é 0,20, se for >= 150, então valor é 0,20 por kwh, se maior que 500, então 0.30 por kwh.
 # O valor mínimo para total é 11.
-
+# Feito por Rodrigo
 
 print('----------------')
 print('CONTA DE ENERGIA')

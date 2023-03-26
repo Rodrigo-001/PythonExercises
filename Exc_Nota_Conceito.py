@@ -1,5 +1,6 @@
 # Pede 3 notas para o aluno calcula sua média e retorna conceito com condicional
 #Else if e match case
+# Feito por Rodrigo
 print('\nOBTENHA SUA MÉDIA AQUI\n')
 nota1 = float(input('Digite primeira nota: '))
 nota2 = float(input('Digite segunda nota: '))

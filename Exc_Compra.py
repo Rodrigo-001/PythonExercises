@@ -1,5 +1,6 @@
 # Programa pede para usuario digitar valor e quantidade do produto desejado, e aplica desconto com condicional
 # Se total >= 100, então desconto de 10%
+# Feito por Rodrigo
 
 print('\nAsistente de compra\n')
 

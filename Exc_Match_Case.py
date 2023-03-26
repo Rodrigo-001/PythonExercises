@@ -1,5 +1,5 @@
 # Pede um numero para o usuário, e sugere o numero com condicional
-
+# Feito por Rodrigo
 var = int(input('Digite um numero: '))
 match var:
     case 1|2|3|4:

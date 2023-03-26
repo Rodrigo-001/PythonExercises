@@ -1,5 +1,5 @@
 #Programa que simula uma calculadora simples. 
-# Feito em 24-03
+# Feito em 24-03 por Rodrigo
 
 print('--------------------')
 print('CALCULADORA SIMPLES')

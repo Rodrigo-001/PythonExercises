@@ -1,4 +1,6 @@
 # Pergunta idade e testa maior de idade
+# feito por Rodrigo
+
 print('Verifica IDADE')
 
 idade = int(input('Digite sua idade: '))
